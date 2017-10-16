@@ -82,10 +82,10 @@
   },
   "devDependencies": {
     "grunt": "latest",
-    "grunt-contrib-jshint": "~0.11.0",
-    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-nodeunit": "~1.0.0",
     "grunt-bumpup": "~0.6.2",
-    "grunt-contrib-uglify": "~0.7.0"
+    "grunt-contrib-uglify": "~3.1.0"
   },
   "license": "MIT"
 }
